@@ -5,6 +5,9 @@
 
 ### Mouse-Trail
 
+**[Online Demonstration (Click to Access)](https://www.rockaz.top/GitHub-Project-Demo/Mouse-Trail/)**  
+*Note: The website server is located in China.*
+
 A lightweight JavaScript library to quickly add interactive mouse trail effects to web projects, enhancing visual feedback and user experience with customizable trail styles.
 
 ![GitHub license](https://img.shields.io/github/license/add-qwq/Mouse-Trail?style=flat-square)
@@ -120,6 +123,9 @@ This project is licensed under the [Apache-2.0 license](LICENSE).
 ## 中文
 
 ### 鼠标轨迹效果
+
+**[在线演示（点击访问）](https://www.rockaz.top/GitHub-Project-DemoMouse-Trail/)**  
+*注：网站服务器位于中国。
 
 一个轻量级JavaScript库，用于为Web项目快速添加交互式鼠标轨迹效果，通过可自定义的轨迹样式增强视觉反馈和用户体验。
 
