@@ -124,7 +124,7 @@ This project is licensed under the [Apache-2.0 license](LICENSE).
 
 ### 鼠标轨迹效果
 
-**[在线演示（点击访问）](https://www.rockaz.top/GitHub-Project-DemoMouse-Trail/)**  
+**[在线演示（点击访问）](https://www.rockaz.top/GitHub-Project-Demo/Mouse-Trail/)**  
 *注：网站服务器位于中国。
 
 一个轻量级JavaScript库，用于为Web项目快速添加交互式鼠标轨迹效果，通过可自定义的轨迹样式增强视觉反馈和用户体验。
